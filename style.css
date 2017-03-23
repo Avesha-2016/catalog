@@ -1,0 +1,30 @@
+/*настройки блока katalog*/
+
+#catalog {
+    color: #242525;
+    font-weight: 500;
+}
+
+.item_wrap {
+    height: 320px;
+    padding: 20px;
+    width: 100%;
+    background: #eedfa4;
+}
+
+.item_zag > p {
+    color: #671718;
+    font-size: 16px;
+    margin-top: 20px;
+    padding: 10px 5px;
+    text-align: left;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.tsena > p {
+    color: #671718;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
